@@ -1,0 +1,19 @@
+.login-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+.login-page-container{
+    display: flex;
+}
+.login-container{
+    margin-top:50px;
+    width:50%;
+  }
+  .img{
+    height:70vh;
+    width:50vw;
+  }
+  .aifa-image{
+    width:100%;
+  }
